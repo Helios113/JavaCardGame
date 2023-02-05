@@ -1,5 +1,10 @@
-# Team PRAMS
-## ITSDTeamProject
+# Turn Based Card Game
+
+This is a card game project developed by some former colleagues and I. I was involved in the development of a interpreted tag language called the PRAMS language (acronym from all our names). I am particularly fond of this language because it made the entire card game extremely generic.
+
+The description of the language is below and the implementation can be mainly found in:  
+```controllers/EventHandler.java```
+
 
 ## The PRAMS tag language
 Tags are divided into three major groups:
